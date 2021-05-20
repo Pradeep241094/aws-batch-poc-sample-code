@@ -65,7 +65,7 @@ var largeJobsComputeEnvironmentParams = {
    maxvCpus: 8, // default maxVcpus
    minvCpus: 0, 
    securityGroupIds: [
-     'sg-0aa16fb48a5631a77'
+     '' // security Group ID
    ], 
    subnets: [
       "subnet-b57204ed",
